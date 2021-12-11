@@ -6,6 +6,7 @@
       <class name="crossBrowsing.crossbrowsingTest">
         <methods>
           <include name="search"/>
+          <include name="tearDown"/>
           <include name="setup"/>
         </methods>
       </class> <!-- crossBrowsing.crossbrowsingTest -->
