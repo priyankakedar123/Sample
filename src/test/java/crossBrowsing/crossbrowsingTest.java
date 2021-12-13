@@ -21,6 +21,7 @@ public class crossbrowsingTest extends CrossbrowsingUtil {
    //driver.findElement(By.cssSelector("input.gNO89b:nth-child(1)")).click();
 	System.out.println("Welcome");
 	System.out.println("Well done all");
+		System.out.println("Edit the changes in github");
 	}
 	
 	
